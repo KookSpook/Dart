@@ -15,7 +15,7 @@ See our [directory](https://github.com/TheAlgorithms/Dart/blob/master/DIRECTORY.
 
 ## Search Algorithms
 aye
-
+## nicey
 ### Linear
 ![alt text][linear-image]
 
