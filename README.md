@@ -24,6 +24,7 @@ From [Wikipedia][linear-wiki]: linear search or sequential search is a method fo
 
 __Properties__
 * Worst case performance    O(n)
+* Worst case performance    O(n)
 * Best case performance    O(1)
 * Average case performance    O(n)
 * Worst case space complexity    O(1) iterative
