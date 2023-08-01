@@ -18,6 +18,11 @@ These implementations are for learning purposes. They may be less efficient than
 
 ## List of Algorithms
 
+## List of Algorithms
+
+## List of Algorithms
+
+## List of Algorithms
 See our [directory](https://github.com/TheAlgorithms/Dart/blob/master/DIRECTORY.md) for full list of all algorithms. A few of the algorithms (the most common ones) are explained here.
 
 ## Search Algorithms
