@@ -2,12 +2,7 @@
 
 [![Build Status](https://travis-ci.com/TheAlgorithms/Dart.svg?branch=master)](https://travis-ci.com/TheAlgorithms/Dart)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-greeen.svg)](https://www.paypal.me/TheAlgorithms/100) &nbsp;
-[![Discord chat](https://img.shields.io/discord/808045925556fg3414682782.svg?logo=discord&colorB=5865F2)](https://the-algorithms.com/discord/) &nbsp;
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/#TheAlgorithms_community:gitter.im)
-[![Build Status](https://travis-ci.com/TheAlgorithms/Dart.svg?branch=master)](https://travis-ci.com/TheAlgorithms/Dart)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-greeen.svg)](https://www.paypal.me/TheAlgorithms/100) &nbsp;
-[![Discord chat](https://img.shields.io/discord/808045925556fg3414682782.svg?logo=discord&colorB=5865F2)](https://the-algorithms.com/discord/) &nbsp;
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/#TheAlgorithms_community:gitter.im)
+[![Discord chat](https://img.shields.io/discord/808045925556fg3414682782.svg?logo=discord&colorB=5865F2)](https://the-algorit
 ### All algorithms implemented in Dart (for education)
 
 These implementations are for learning purposes. They may be less efficient than the implementations in the Dart standard library.
