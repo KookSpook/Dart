@@ -10,11 +10,6 @@ These implementations are for learning purposes. They may be less efficient than
 ## List of Algorithms
 
 ## List of Algorithms
-
-## List of Algorithms
-
-## List of Algorithms
-
 ## List of Algorithms
 
 ## List of Algorithms
