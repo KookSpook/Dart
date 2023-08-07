@@ -12,13 +12,6 @@ These implementations are for learning purposes. They may be less efficient than
 ## List of Algorithms
 See our [directory](https://github.com/TheAlgorithms/Dart/blob/master/DIRECTORY.md) for full list of all algorithms. A few of the algorithms (the most common ones) are explained here.
 
-## Search Algorithms
-Arrested capital))))
-aye
-## nicey
-### Linear
-![alt text][linear-image]
-
 From [Wikipedia][linear-wiki]: linear search or sequential search is a method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched.
   Linear search runs in at the worst linear time and makes at most n comparisons, where n is the length of the list.
 
